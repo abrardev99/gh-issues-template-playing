@@ -21,6 +21,8 @@ body:
     id: steps
     attributes:
       label: Steps to reproduce
+    validations:
+      required: true
   - type: textarea
     id: logs
     attributes:
