@@ -19,3 +19,17 @@ body:
       description: A clear and concise description of what you expected to happen.
     validations:
       required: true
+  - type: input
+    id: laravel-version
+    attributes:
+      label: Laravel Version
+      placeholder: "e.g. 8.2.0"
+    validations:
+      required: true
+  - type: input
+    id: tenancy-version
+    attributes:
+      label: stancl/tenancy Version
+      placeholder: "e.g. 3.1.0"
+    validations:
+      required: true
