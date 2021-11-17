@@ -3,7 +3,7 @@ name: "\U0001F41B Bug Report"
 about: Report unexpected behavior with stancl/tenancy.
 title: ''
 labels: bug
-assignees: stancl
+assignees: ''
 
 ---
 
